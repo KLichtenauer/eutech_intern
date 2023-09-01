@@ -1,0 +1,11 @@
+path to the backup folder (has to be relative to the script file):
+backups
+
+number of backups:
+8
+
+files which should be backed up (has to be absolute paths):
+C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\config_file.txt
+C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\ThisIsSoMuchFun
+C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\ItIsWayToHot
+C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\12345

@@ -1,0 +1,8 @@
+2023-08-22 18:44:10,246 - INFO - Script started.
+2023-08-22 18:44:10,254 - INFO - The path to the backupfolder is: C:\Users\Kilian\Documents\eutech_intern\task1\backups
+2023-08-22 18:44:10,254 - INFO - The max number of backups is: 8
+2023-08-22 18:44:10,255 - INFO - The current number of backups is: 8
+2023-08-22 18:44:10,282 - INFO - Backup number 7: C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\config_file.txt
+2023-08-22 18:44:10,289 - INFO - Backup number 8: C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\ThisIsSoMuchFun
+2023-08-22 18:44:10,296 - INFO - Backup number 9: C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\ItIsWayToHot
+2023-08-22 18:44:10,310 - INFO - Backup number 10: C:\Users\Kilian\Documents\eutech_intern\task1\files_for_backup\12345

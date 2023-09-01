@@ -1,0 +1,9 @@
+path to backup folder:
+this/is/the/path/for/backup/storage
+numberofbackups:
+8
+files which should be backed up:
+path1/to/file
+path2/to/file
+path3/to/file
+path4/to/file

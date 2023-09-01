@@ -1,0 +1,44 @@
+## Backup Script Documentation
+
+This documentation provides instructions on how to use the backup script and configure the backup settings.
+
+
+### 1. Introduction
+
+The provided backup script is designed to facilitate automated backups of files and directories based on the settings provided in a configuration file. The script allows you to specify the backup destination folder, the maximum number of backups to retain, and the files or directories to be backed up.
+
+### 2. Usage Instructions
+
+Follow these steps to use the backup script:
+
+1. Place the `backup_script.py` file in the directory where your config.txt file is located.
+2. Configure the script settings in the configuration file named config.txt.
+3. Run the script using Python 3.
+4. Review the log file `logfile.txt` for information on the backup process.
+
+### 3. Configuration Settings
+
+The configuration settings are specified in the `config.txt` file. The file should have the following format:
+
+path to the backup folder (has to be relative to the script file):
+backups
+
+number of backups:
+-- following the number of backups --
+
+files which should be backed up (has to be absolute paths):
+-- following the paths to the different folders/files--
+
+
+Adjust the values in the configuration file to suit your backup requirements.
+
+
+
+### 4. Scheduled Task Setup
+
+To run the script as a scheduled task, follow these steps:
+
+1. Edit the file schedule_task_script.bat
+2. Change the path to the script with the absolute path.
+3. Change the desired starting and schedule attributes.
+4. Run the script.
