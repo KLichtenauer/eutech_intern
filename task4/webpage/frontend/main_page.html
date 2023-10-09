@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MNIST CNN Image Recognition</title>
+    <!-- Add some CSS for styling -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        p {
+            font-size: 18px;
+            text-align: center;
+            color: #555;
+        }
+
+        #cnn_result {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff; /* Blue color for result */
+            margin-top: 20px;
+        }
+
+        #new_rdm_pics {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #007bff; /* Blue color for button */
+            color: #fff; /* White text color */
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MNIST CNN Image Recognition</h1>
+        <p>
+            Welcome to the MNIST Image Recognition Website. It operates on a trained Convolutional Neural Network.
+        </p>
+
+        <!-- Button to load new pictures -->
+        <input type="button" id="new_rdm_pics" value="Load New Pictures" onclick="getPictures()">
+
+        <!-- Image containers for displaying pictures -->
+        <div class="image-container" id="imageCont1"></div>
+        <div class="image-container" id="imageCont2"></div>
+        <div class="image-container" id="imageCont3"></div>
+
+        <!-- Result display area -->
+        <div id="cnn_result">
+            The result is:
+            <p id="result"></p>
+        </div>
+    </div>
+
+    <!-- Include your JavaScript file for functionality -->
+    <script src="script.js"></script>
+</body>
+</html>

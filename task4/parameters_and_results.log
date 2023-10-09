@@ -1,0 +1,585 @@
+
+2023-10-02 13:48:39,865 - Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+2023-10-02 13:50:15,140 - Results: Test Error: 
+ Accuracy: 46.0%, Avg loss: 2.215865 
+ 
+2023-10-02 13:51:47,165 - Results: Test Error: 
+ Accuracy: 57.4%, Avg loss: 1.687976 
+ 
+2023-10-02 13:53:29,288 - Results: Test Error: 
+ Accuracy: 64.9%, Avg loss: 0.995989 
+ 
+2023-10-02 13:55:17,855 - Results: Test Error: 
+ Accuracy: 71.0%, Avg loss: 0.828550 
+ 
+2023-10-02 13:56:58,412 - Results: Test Error: 
+ Accuracy: 73.7%, Avg loss: 0.749534 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Results: Test Error: 
+ Accuracy: 44.7%, Avg loss: 2.168878 
+ 
+Results: Test Error: 
+ Accuracy: 62.7%, Avg loss: 1.320556 
+ 
+Results: Test Error: 
+ Accuracy: 65.8%, Avg loss: 0.920292 
+ 
+Results: Test Error: 
+ Accuracy: 70.6%, Avg loss: 0.801775 
+ 
+Results: Test Error: 
+ Accuracy: 73.2%, Avg loss: 0.744908 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Results: Test Error: 
+ Accuracy: 34.9%, Avg loss: 2.250272 
+ 
+Results: Test Error: 
+ Accuracy: 63.7%, Avg loss: 2.102378 
+ 
+Results: Test Error: 
+ Accuracy: 73.4%, Avg loss: 1.446553 
+ 
+Results: Test Error: 
+ Accuracy: 81.3%, Avg loss: 0.728092 
+ 
+Results: Test Error: 
+ Accuracy: 86.4%, Avg loss: 0.517818 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Results: Test Error: 
+ Accuracy: 38.9%, Avg loss: 2.255893 
+ 
+Results: Test Error: 
+ Accuracy: 61.3%, Avg loss: 2.107739 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Results: Test Error: 
+ Accuracy: 73.0%, Avg loss: 1.450160 
+ 
+Results: Test Error: 
+ Accuracy: 81.7%, Avg loss: 0.721884 
+ 
+Results: Test Error: 
+ Accuracy: 86.4%, Avg loss: 0.509435 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=5
+Results: Test Error: 
+ Accuracy: 37.8%, Avg loss: 2.258440 
+ 
+Results: Test Error: 
+ Accuracy: 65.4%, Avg loss: 2.138387 
+ 
+Results: Test Error: 
+ Accuracy: 72.3%, Avg loss: 1.606751 
+ 
+Results: Test Error: 
+ Accuracy: 81.6%, Avg loss: 0.760728 
+ 
+Results: Test Error: 
+ Accuracy: 86.3%, Avg loss: 0.516649 
+ 
+Hyperparameters: batch_size=256, learning_rate=0.001, epochs=15
+Results: Test Error: 
+ Accuracy: 29.3%, Avg loss: 2.285670 
+ 
+Results: Test Error: 
+ Accuracy: 40.5%, Avg loss: 2.271871 
+ 
+Results: Test Error: 
+ Accuracy: 45.9%, Avg loss: 2.255021 
+ 
+Results: Test Error: 
+ Accuracy: 49.5%, Avg loss: 2.232806 
+ 
+Results: Test Error: 
+ Accuracy: 51.9%, Avg loss: 2.202563 
+ 
+Results: Test Error: 
+ Accuracy: 55.8%, Avg loss: 2.158751 
+ 
+Results: Test Error: 
+ Accuracy: 58.8%, Avg loss: 2.094148 
+ 
+Results: Test Error: 
+ Accuracy: 62.1%, Avg loss: 1.999245 
+ 
+Results: Test Error: 
+ Accuracy: 66.0%, Avg loss: 1.855481 
+ 
+Results: Test Error: 
+ Accuracy: 70.1%, Avg loss: 1.644026 
+ 
+Results: Test Error: 
+ Accuracy: 73.8%, Avg loss: 1.385715 
+ 
+Results: Test Error: 
+ Accuracy: 76.8%, Avg loss: 1.123955 
+ 
+Results: Test Error: 
+ Accuracy: 78.8%, Avg loss: 0.926223 
+ 
+Results: Test Error: 
+ Accuracy: 80.8%, Avg loss: 0.780824 
+ 
+Results: Test Error: 
+ Accuracy: 82.8%, Avg loss: 0.696852 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=15
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=15
+Hyperparameters: batch_size=64, learning_rate=0.001, epochs=15
+Results: Test Error: 
+ Accuracy: 43.4%, Avg loss: 2.255116 
+ 
+Results: Test Error: 
+ Accuracy: 63.8%, Avg loss: 2.139814 
+ 
+Results: Test Error: 
+ Accuracy: 71.1%, Avg loss: 1.638053 
+ 
+Results: Test Error: 
+ Accuracy: 81.2%, Avg loss: 0.788035 
+ 
+Results: Test Error: 
+ Accuracy: 85.9%, Avg loss: 0.533099 
+ 
+Results: Test Error: 
+ Accuracy: 87.5%, Avg loss: 0.442979 
+ 
+Results: Test Error: 
+ Accuracy: 89.1%, Avg loss: 0.392737 
+ 
+Results: Test Error: 
+ Accuracy: 89.4%, Avg loss: 0.362806 
+ 
+Results: Test Error: 
+ Accuracy: 90.5%, Avg loss: 0.334544 
+ 
+Results: Test Error: 
+ Accuracy: 90.9%, Avg loss: 0.316708 
+ 
+Results: Test Error: 
+ Accuracy: 91.2%, Avg loss: 0.302090 
+ 
+Results: Test Error: 
+ Accuracy: 91.6%, Avg loss: 0.294077 
+ 
+Results: Test Error: 
+ Accuracy: 92.0%, Avg loss: 0.277732 
+ 
+Results: Test Error: 
+ Accuracy: 92.2%, Avg loss: 0.265099 
+ 
+Results: Test Error: 
+ Accuracy: 92.5%, Avg loss: 0.255168 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.0015, epochs=20
+Results: Test Error: 
+ Accuracy: 58.7%, Avg loss: 2.135793 
+ 
+Results: Test Error: 
+ Accuracy: 76.9%, Avg loss: 1.100059 
+ 
+Results: Test Error: 
+ Accuracy: 86.2%, Avg loss: 0.525478 
+ 
+Results: Test Error: 
+ Accuracy: 89.1%, Avg loss: 0.405926 
+ 
+Results: Test Error: 
+ Accuracy: 89.8%, Avg loss: 0.352483 
+ 
+Results: Test Error: 
+ Accuracy: 90.6%, Avg loss: 0.329444 
+ 
+Results: Test Error: 
+ Accuracy: 91.0%, Avg loss: 0.300360 
+ 
+Results: Test Error: 
+ Accuracy: 91.6%, Avg loss: 0.285671 
+ 
+Results: Test Error: 
+ Accuracy: 92.4%, Avg loss: 0.259914 
+ 
+Results: Test Error: 
+ Accuracy: 92.7%, Avg loss: 0.246318 
+ 
+Results: Test Error: 
+ Accuracy: 93.2%, Avg loss: 0.230817 
+ 
+Results: Test Error: 
+ Accuracy: 93.5%, Avg loss: 0.217581 
+ 
+Results: Test Error: 
+ Accuracy: 93.9%, Avg loss: 0.209693 
+ 
+Results: Test Error: 
+ Accuracy: 94.2%, Avg loss: 0.196502 
+ 
+Results: Test Error: 
+ Accuracy: 94.2%, Avg loss: 0.188724 
+ 
+Results: Test Error: 
+ Accuracy: 94.5%, Avg loss: 0.179747 
+ 
+Results: Test Error: 
+ Accuracy: 94.9%, Avg loss: 0.167180 
+ 
+Results: Test Error: 
+ Accuracy: 95.1%, Avg loss: 0.159843 
+ 
+Results: Test Error: 
+ Accuracy: 95.5%, Avg loss: 0.154035 
+ 
+Results: Test Error: 
+ Accuracy: 95.8%, Avg loss: 0.144404 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.0015, epochs=30
+Results: Test Error: 
+ Accuracy: 67.3%, Avg loss: 2.043154 
+ 
+Results: Test Error: 
+ Accuracy: 81.1%, Avg loss: 0.793658 
+ 
+Results: Test Error: 
+ Accuracy: 87.5%, Avg loss: 0.462229 
+ 
+Results: Test Error: 
+ Accuracy: 89.4%, Avg loss: 0.375884 
+ 
+Results: Test Error: 
+ Accuracy: 90.6%, Avg loss: 0.329692 
+ 
+Results: Test Error: 
+ Accuracy: 91.3%, Avg loss: 0.300954 
+ 
+Results: Test Error: 
+ Accuracy: 91.8%, Avg loss: 0.280177 
+ 
+Results: Test Error: 
+ Accuracy: 92.3%, Avg loss: 0.264912 
+ 
+Results: Test Error: 
+ Accuracy: 92.8%, Avg loss: 0.247372 
+ 
+Results: Test Error: 
+ Accuracy: 93.1%, Avg loss: 0.232507 
+ 
+Results: Test Error: 
+ Accuracy: 93.4%, Avg loss: 0.226431 
+ 
+Results: Test Error: 
+ Accuracy: 93.5%, Avg loss: 0.213722 
+ 
+Results: Test Error: 
+ Accuracy: 94.1%, Avg loss: 0.202078 
+ 
+Results: Test Error: 
+ Accuracy: 94.5%, Avg loss: 0.185077 
+ 
+Results: Test Error: 
+ Accuracy: 94.9%, Avg loss: 0.173213 
+ 
+Results: Test Error: 
+ Accuracy: 95.0%, Avg loss: 0.167432 
+ 
+Results: Test Error: 
+ Accuracy: 95.1%, Avg loss: 0.165095 
+ 
+Results: Test Error: 
+ Accuracy: 95.3%, Avg loss: 0.149278 
+ 
+Results: Test Error: 
+ Accuracy: 95.6%, Avg loss: 0.142647 
+ 
+Results: Test Error: 
+ Accuracy: 95.7%, Avg loss: 0.147336 
+ 
+Results: Test Error: 
+ Accuracy: 96.2%, Avg loss: 0.130538 
+ 
+Results: Test Error: 
+ Accuracy: 96.2%, Avg loss: 0.127170 
+ 
+Results: Test Error: 
+ Accuracy: 96.4%, Avg loss: 0.121170 
+ 
+Results: Test Error: 
+ Accuracy: 96.7%, Avg loss: 0.112132 
+ 
+Results: Test Error: 
+ Accuracy: 96.7%, Avg loss: 0.110061 
+ 
+Results: Test Error: 
+ Accuracy: 96.8%, Avg loss: 0.107360 
+ 
+Results: Test Error: 
+ Accuracy: 96.8%, Avg loss: 0.101741 
+ 
+Results: Test Error: 
+ Accuracy: 97.0%, Avg loss: 0.098508 
+ 
+Results: Test Error: 
+ Accuracy: 97.1%, Avg loss: 0.095060 
+ 
+Results: Test Error: 
+ Accuracy: 97.1%, Avg loss: 0.096976 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.0015, epochs=40
+Results: Test Error: 
+ Accuracy: 53.6%, Avg loss: 2.214576 
+ 
+Results: Test Error: 
+ Accuracy: 68.3%, Avg loss: 1.574459 
+ 
+Results: Test Error: 
+ Accuracy: 83.6%, Avg loss: 0.638874 
+ 
+Results: Test Error: 
+ Accuracy: 88.0%, Avg loss: 0.443228 
+ 
+Results: Test Error: 
+ Accuracy: 89.5%, Avg loss: 0.373769 
+ 
+Results: Test Error: 
+ Accuracy: 89.5%, Avg loss: 0.346894 
+ 
+Results: Test Error: 
+ Accuracy: 90.6%, Avg loss: 0.313098 
+ 
+Results: Test Error: 
+ Accuracy: 90.8%, Avg loss: 0.305888 
+ 
+Results: Test Error: 
+ Accuracy: 92.1%, Avg loss: 0.273059 
+ 
+Results: Test Error: 
+ Accuracy: 92.2%, Avg loss: 0.261564 
+ 
+Results: Test Error: 
+ Accuracy: 92.7%, Avg loss: 0.246901 
+ 
+Results: Test Error: 
+ Accuracy: 93.4%, Avg loss: 0.233006 
+ 
+Results: Test Error: 
+ Accuracy: 93.8%, Avg loss: 0.212733 
+ 
+Results: Test Error: 
+ Accuracy: 94.2%, Avg loss: 0.197309 
+ 
+Results: Test Error: 
+ Accuracy: 94.3%, Avg loss: 0.191323 
+ 
+Results: Test Error: 
+ Accuracy: 94.7%, Avg loss: 0.184465 
+ 
+Results: Test Error: 
+ Accuracy: 95.0%, Avg loss: 0.176438 
+ 
+Results: Test Error: 
+ Accuracy: 95.2%, Avg loss: 0.159216 
+ 
+Results: Test Error: 
+ Accuracy: 95.4%, Avg loss: 0.154898 
+ 
+Results: Test Error: 
+ Accuracy: 95.7%, Avg loss: 0.144628 
+ 
+Results: Test Error: 
+ Accuracy: 95.9%, Avg loss: 0.135915 
+ 
+Results: Test Error: 
+ Accuracy: 96.0%, Avg loss: 0.131656 
+ 
+Results: Test Error: 
+ Accuracy: 96.2%, Avg loss: 0.125439 
+ 
+Results: Test Error: 
+ Accuracy: 96.4%, Avg loss: 0.123463 
+ 
+Results: Test Error: 
+ Accuracy: 96.5%, Avg loss: 0.117802 
+ 
+Results: Test Error: 
+ Accuracy: 96.7%, Avg loss: 0.113757 
+ 
+Results: Test Error: 
+ Accuracy: 96.9%, Avg loss: 0.106708 
+ 
+Results: Test Error: 
+ Accuracy: 96.9%, Avg loss: 0.104959 
+ 
+Results: Test Error: 
+ Accuracy: 97.0%, Avg loss: 0.101519 
+ 
+Results: Test Error: 
+ Accuracy: 97.0%, Avg loss: 0.102059 
+ 
+Results: Test Error: 
+ Accuracy: 97.2%, Avg loss: 0.095288 
+ 
+Results: Test Error: 
+ Accuracy: 97.1%, Avg loss: 0.092793 
+ 
+Results: Test Error: 
+ Accuracy: 97.3%, Avg loss: 0.089362 
+ 
+Results: Test Error: 
+ Accuracy: 97.4%, Avg loss: 0.087477 
+ 
+Results: Test Error: 
+ Accuracy: 97.5%, Avg loss: 0.085305 
+ 
+Results: Test Error: 
+ Accuracy: 97.5%, Avg loss: 0.082552 
+ 
+Results: Test Error: 
+ Accuracy: 97.4%, Avg loss: 0.084234 
+ 
+Results: Test Error: 
+ Accuracy: 97.7%, Avg loss: 0.080033 
+ 
+Results: Test Error: 
+ Accuracy: 97.6%, Avg loss: 0.079965 
+ 
+Results: Test Error: 
+ Accuracy: 97.7%, Avg loss: 0.077313 
+ 
+Hyperparameters: batch_size=64, learning_rate=0.0015, epochs=40
+Results: Test Error: 
+ Accuracy: 44.8%, Avg loss: 2.228987 
+ 
+Results: Test Error: 
+ Accuracy: 65.4%, Avg loss: 1.781160 
+ 
+Results: Test Error: 
+ Accuracy: 81.8%, Avg loss: 0.694239 
+ 
+Results: Test Error: 
+ Accuracy: 88.0%, Avg loss: 0.446002 
+ 
+Results: Test Error: 
+ Accuracy: 89.5%, Avg loss: 0.365886 
+ 
+Results: Test Error: 
+ Accuracy: 90.0%, Avg loss: 0.334569 
+ 
+Results: Test Error: 
+ Accuracy: 90.9%, Avg loss: 0.303429 
+ 
+Results: Test Error: 
+ Accuracy: 91.4%, Avg loss: 0.282934 
+ 
+Results: Test Error: 
+ Accuracy: 92.2%, Avg loss: 0.265096 
+ 
+Results: Test Error: 
+ Accuracy: 92.7%, Avg loss: 0.250228 
+ 
+Results: Test Error: 
+ Accuracy: 93.1%, Avg loss: 0.231799 
+ 
+Results: Test Error: 
+ Accuracy: 93.6%, Avg loss: 0.219109 
+ 
+Results: Test Error: 
+ Accuracy: 93.9%, Avg loss: 0.209836 
+ 
+Results: Test Error: 
+ Accuracy: 94.0%, Avg loss: 0.206124 
+ 
+Results: Test Error: 
+ Accuracy: 94.5%, Avg loss: 0.189234 
+ 
+Results: Test Error: 
+ Accuracy: 94.6%, Avg loss: 0.181500 
+ 
+Results: Test Error: 
+ Accuracy: 95.0%, Avg loss: 0.169510 
+ 
+Results: Test Error: 
+ Accuracy: 95.2%, Avg loss: 0.163661 
+ 
+Results: Test Error: 
+ Accuracy: 95.5%, Avg loss: 0.152181 
+ 
+Results: Test Error: 
+ Accuracy: 95.6%, Avg loss: 0.145532 
+ 
+Results: Test Error: 
+ Accuracy: 95.8%, Avg loss: 0.139049 
+ 
+Results: Test Error: 
+ Accuracy: 96.2%, Avg loss: 0.132092 
+ 
+Results: Test Error: 
+ Accuracy: 96.1%, Avg loss: 0.134150 
+ 
+Results: Test Error: 
+ Accuracy: 96.4%, Avg loss: 0.123013 
+ 
+Results: Test Error: 
+ Accuracy: 96.0%, Avg loss: 0.126791 
+ 
+Results: Test Error: 
+ Accuracy: 96.6%, Avg loss: 0.115206 
+ 
+Results: Test Error: 
+ Accuracy: 96.9%, Avg loss: 0.107518 
+ 
+Results: Test Error: 
+ Accuracy: 96.9%, Avg loss: 0.103722 
+ 
+Results: Test Error: 
+ Accuracy: 97.0%, Avg loss: 0.101725 
+ 
+Results: Test Error: 
+ Accuracy: 97.1%, Avg loss: 0.098393 
+ 
+Results: Test Error: 
+ Accuracy: 97.0%, Avg loss: 0.097019 
+ 
+Results: Test Error: 
+ Accuracy: 97.0%, Avg loss: 0.094365 
+ 
+Results: Test Error: 
+ Accuracy: 97.3%, Avg loss: 0.088911 
+ 
+Results: Test Error: 
+ Accuracy: 97.3%, Avg loss: 0.087673 
+ 
+Results: Test Error: 
+ Accuracy: 97.4%, Avg loss: 0.085695 
+ 
+Results: Test Error: 
+ Accuracy: 97.4%, Avg loss: 0.082811 
+ 
+Results: Test Error: 
+ Accuracy: 97.4%, Avg loss: 0.078570 
+ 
+Results: Test Error: 
+ Accuracy: 97.3%, Avg loss: 0.083624 
+ 
+Results: Test Error: 
+ Accuracy: 97.5%, Avg loss: 0.076010 
+ 
+Results: Test Error: 
+ Accuracy: 97.5%, Avg loss: 0.076476 
+ 

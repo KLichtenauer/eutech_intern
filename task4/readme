@@ -1,0 +1,39 @@
+Training of a Convolutional Neural Network (CNN) on the MNIST Dataset for detecting handwritten numbers 0 - 9.
+The trained model got integrated in a Basic HTML/JS frontend for interacting with the CNN.
+
+THE MODEL (/CNN_model_training/):
+
+The model is placed in the CNN_model_training folder, where in the CNN_models different Versions, with different hyperparameter,
+of the trained model can be found. The neural_network.py class contains the structure of the neural network while the main.py uses
+this and the train_test.py class is for managing the training process.
+
+The train_test.py defines the test and train cycle. It is trained on 60 000 and tested on 10 000 grayscale 28x28 pxl images.
+The model can be adjusted to different images by changing the dataset and the load_data method in main.py accordingly.
+
+For the website, the model currently used is the  CNN_models3.pt. It has an accuracy of 97.5% by training it with:
+ - batch_size=64 (number of images used for one learning phase)
+ - learning_rate=1.5e-3 (rate of how the weight of the parameters get adjusted in each learning phase)
+ - epochs=40 (number of total learning phases)
+
+The hyperparameters can be adjusted in the method head of the init method of the MNIST_Trainer class.
+
+
+THE WEBPAGE (/webpage/):
+
+The website consists of a basic html (main_page.html) which uses div's for displaying the different images and the solution of the model.
+The images can be reloaded by clicking the reload button or clicked which will perform the prediction of which number is
+shown in the image. The website operates by REST-API with JS (script.js) and Python Flask backend (__init__.py).
+
+The used model can be adjusted in the in the __init__.py file at: model.load_state_dict(torch.load("../../CNN_model_training/CNN_models/CNN_models3.pt"))
+
+
+THE IMPORTS:
+For running this project you need to import:
+python.os
+python.torch
+python.NeuralNetwork
+python.Cors
+python.transform
+
+RUNNING:
+For running the training you have to execute the
